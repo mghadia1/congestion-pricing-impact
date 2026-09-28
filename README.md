@@ -2,7 +2,7 @@
 
 On 5 January 2025, New York began charging vehicles that enter Manhattan below 60th Street. Did yellow-taxi trips inside that zone get faster, and did fewer of them happen? This is a difference-in-differences study on **42.1 million real TLC trip records**. The same comparison is repeated on the year before, when there was no policy, as a placebo.
 
-> **Status: learning project (September 2026).** It is built, tested, and run on real data, but I am still practising explaining it. It is local only and has not been pushed. The results are about **yellow taxis only**, measured with trip records rather than traffic sensors. They are estimates under stated assumptions, not a verdict on the policy.
+> **Status: learning project (September 2026).** It is built, tested, and run on real data, but I am still practising explaining it. The results are about **yellow taxis only**, measured with trip records rather than traffic sensors. They are estimates under stated assumptions, not a verdict on the policy.
 
 ![Median speed inside the zone vs upper Manhattan, policy year vs placebo year](docs/figures/event_study_speed.png)
 
